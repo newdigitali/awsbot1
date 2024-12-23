@@ -1,0 +1,14 @@
+{
+    "botId": "4PGMWY8JQ3",
+    "botName": "AutoInsuranceBot",
+    "description": "Helps users manage their auto insurance policy.",
+    "roleArn": "arn:aws:iam::965416011638:role/auto-insurance-stack-LexRole-J8Ad6mvYrLzT",
+    "dataPrivacy": {
+        "childDirected": false
+    },
+    "idleSessionTTLInSeconds": 300,
+    "botStatus": "Available",
+    "creationDateTime": "2024-06-13T14:50:29.065000-04:00",
+    "lastUpdatedDateTime": "2024-06-13T14:53:57.477000-04:00",
+    "botType": "Bot"
+}
